@@ -1,0 +1,49 @@
+{
+  "name": "authExempleGoogle",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint .",
+    "storybook": "start-storybook -p 7007",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+    "@notifee/react-native": "^5.1.0",
+    "@react-native-async-storage/async-storage": "^1.17.3",
+    "@react-native-firebase/app": "^14.8.0",
+    "@react-native-firebase/auth": "^14.7.0",
+    "@react-native-firebase/messaging": "^14.8.0",
+    "@react-native-google-signin/google-signin": "^7.2.2",
+    "doctor-cli": "^1.1.0",
+    "react": "17.0.2",
+    "react-native": "0.68.0",
+    "react-native-fbsdk-next": "^7.3.3",
+    "react-native-image-picker": "^4.7.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/runtime": "^7.17.8",
+    "@react-native-community/eslint-config": "^3.0.1",
+    "@storybook/addon-actions": "^5.3",
+    "@storybook/addon-knobs": "^5.3",
+    "@storybook/addon-links": "^5.3",
+    "@storybook/addon-ondevice-actions": "^5.3.23",
+    "@storybook/addon-ondevice-knobs": "^5.3.25",
+    "@storybook/react-native": "^5.3.25",
+    "@storybook/react-native-server": "^5.3.23",
+    "babel-jest": "^27.5.1",
+    "babel-loader": "^8.2.4",
+    "eslint": "^8.12.0",
+    "jest": "^27.5.1",
+    "metro-react-native-babel-preset": "^0.70.0",
+    "react-dom": "17.0.2",
+    "react-test-renderer": "17.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
