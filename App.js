@@ -42,7 +42,7 @@ import {
   notificationListner,
 } from './utillities/PushNotifications';
 import notifee from '@notifee/react-native';
-import CameraRoll from '@react-native-community/cameraroll';
+
 const App = () => {
   async function onDisplayNotification() {
     // Create a channel
