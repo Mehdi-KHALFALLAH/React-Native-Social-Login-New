@@ -104,10 +104,10 @@ const App = () => {
     user
       .then(user => {
         console.log(user);
-      })
+      }) 
       .catch(error => {
         console.log(error);
-      });
+      })
   };
   GoogleSignin.configure({
     webClientId:
