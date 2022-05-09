@@ -21,7 +21,6 @@
     "doctor-cli": "^1.1.0",
     "react": "17.0.2",
     "react-native": "0.68.0",
-    "react-native-audio-recorder-player": "^3.4.0",
     "react-native-country-picker-modal": "^2.0.0",
     "react-native-fbsdk-next": "^7.3.3",
     "react-native-image-crop-picker": "^0.37.3",
