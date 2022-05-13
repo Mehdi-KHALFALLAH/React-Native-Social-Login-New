@@ -19,6 +19,7 @@
     "@react-native-firebase/messaging": "^14.8.0",
     "@react-native-google-signin/google-signin": "^7.2.2",
     "doctor-cli": "^1.1.0",
+    "lottie-react-native": "^5.1.2",
     "react": "17.0.2",
     "react-native": "0.68.0",
     "react-native-country-picker-modal": "^2.0.0",
